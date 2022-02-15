@@ -31,6 +31,11 @@ Plan, capture, manage, analyze, archive and destroy.
 A glimpse of how government, finance, and education institutions can view data life cycles a little differently.
 https://www.fws.gov/data/life-cycle
 
+## Financial institutions Data Life Cycles
+Financial institutions may take a slightly different approach to the data life cycle as described in The Data Life Cycle, an article in Strategic Finance magazine: https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/
+
+Capture, Qualify, Transform, Utilize, Report, Archive, & Purge
+
 ## Google bigquery example
 
 ```SQL
