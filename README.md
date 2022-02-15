@@ -11,8 +11,7 @@ The collection, transformation, and organization of data in order to draw conclu
 - **Act**: put your insights to work in order to solve the original problem
 
 ## Life cycle of data:
-Plan, capture, manage, analyze, archive and destroy.
-Planning: happens way before analysis project. A company might decide to capture information on how much electricity its customers use each year, what types of buildings are being powered, and what types of devices are being powered inside of them. The electricity company would also decide which team members will be responsible for collecting, storing, and sharing that data. All of this happens during planning, and it helps set up the rest of the project
+Plan, capture, manage, analyze, archive and destroy. **Planning**: happens way before analysis project. A company might decide to capture information on how much electricity its customers use each year, what types of buildings are being powered, and what types of devices are being powered inside of them. The electricity company would also decide which team members will be responsible for collecting, storing, and sharing that data. All of this happens during planning, and it helps set up the rest of the project
 ---
 
 ## Google bigquery example
