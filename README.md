@@ -3,6 +3,14 @@ Data Analytic Notes
 
 ---
 
+#Data Analysis Process Phases: 
+-ask
+-prepare 
+-process 
+-analyze 
+-share
+-act
+
 ## Google bigquery example
 
 ```SQL
