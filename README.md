@@ -23,9 +23,9 @@ Plan, capture, manage, analyze, archive and destroy.
 
 - **Analyze**: data is used to solve problems, make decisions, and support business goals. For example, _one of our electricity company goals might be to find ways to help customers save energy._
 
-- **Archive**:
+- **Archive**: storing data in a place where it's still available, but may not be used again. It makes sense to archive vs keeping data around...
 
-- **Destroy**:
+- **Destroy**: Electricity company example. _They would have data on multiple hard drives. To destroy it, the company would use a secure data erasure software. Any paper files would be shredded._
 ---
 
 ## Google bigquery example
