@@ -27,11 +27,12 @@ Plan, capture, manage, analyze, archive and destroy.
 - **Destroy**: Remove data from storage and delete any shared copies of the data. Electricity company example. _They would have data on multiple hard drives. To destroy it, the company would use a secure data erasure software. Any paper files would be shredded._
 ---
 
-## U.S. Fish and Wildlife Service Data Lifecycle
+## Data Lifecycle examples:
+**U.S. Fish and Wildlife Service**
 A glimpse of how government, finance, and education institutions can view data life cycles a little differently.
 https://www.fws.gov/data/life-cycle
 
-## Financial institutions Data Life Cycles
+**Financial institutions Data Life Cycles:**
 Financial institutions may take a slightly different approach to the data life cycle as described in The Data Life Cycle, an article in Strategic Finance magazine: https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/
 
 Capture, Qualify, Transform, Utilize, Report, Archive, & Purge
