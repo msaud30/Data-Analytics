@@ -35,7 +35,7 @@ https://www.fws.gov/data/life-cycle
 **Financial institutions:**
 Financial institutions may take a slightly different approach to the data life cycle as described in The Data Life Cycle, an article in Strategic Finance magazine: https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/
 
-Capture, Qualify, Transform, Utilize, Report, Archive, & Purge
+***Data life cycle will vary from company to company or by industry or sector.***
 
 ## Google bigquery example
 
