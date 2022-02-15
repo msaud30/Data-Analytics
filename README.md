@@ -11,7 +11,6 @@ The collection, transformation, and organization of data in order to draw conclu
 - **Act**: put your insights to work in order to solve the original problem
 ---
 
-
 ## Life cycle of data:
 Plan, capture, manage, analyze, archive and destroy. 
 
@@ -27,6 +26,10 @@ Plan, capture, manage, analyze, archive and destroy.
 
 - **Destroy**: Remove data from storage and delete any shared copies of the data. Electricity company example. _They would have data on multiple hard drives. To destroy it, the company would use a secure data erasure software. Any paper files would be shredded._
 ---
+
+## U.S. Fish and Wildlife Service Data Lifecycle
+A glimpse of how government, finance, and education institutions can view data life cycles a little differently.
+https://www.fws.gov/data/life-cycle
 
 ## Google bigquery example
 
