@@ -1,13 +1,14 @@
-# Data-Analytics
-Data Analytic Notes
+# What is Data Analysis?
+The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+
 
 # Data Analysis Process Phases: 
-- **Ask**: Define the problem and confirm stakeholder expectations
-- **Prepare**: Collect and store data for analysis
-- **Process**: Clean and transform data to ensure integrity
-- **Analyze**: Use data analysis tools to draw conclusions
-- **Share**: Interpret and communicate results to others to make data-driven decisions
-- **Act**: Put your insights to work in order to solve the original problem
+- **Ask**: define the problem and confirm stakeholder expectations
+- **Prepare**: collect and store data for analysis
+- **Process**: clean and transform data to ensure integrity
+- **Analyze**: use data analysis tools to draw conclusions
+- **Share**: interpret and communicate results to others to make data-driven decisions
+- **Act**: put your insights to work in order to solve the original problem
 
 ---
 
