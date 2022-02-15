@@ -15,17 +15,17 @@ The collection, transformation, and organization of data in order to draw conclu
 ## Life cycle of data:
 Plan, capture, manage, analyze, archive and destroy. 
 
-- **Planning**: happens way before analysis of project. For example, _a company might decide to capture information on how much electricity its customers use each year, what types of buildings are being powered, and what types of devices are being powered inside of them. The electricity company would also decide which team members will be responsible for collecting, storing, and sharing that data._ All of this happens during planning, and it helps set up the rest of the project.
+- **Planning**: Decide what kind of data is needed, how it will be managed, and who will be responsible for it. Happens way before analysis of project. _For example, a company might decide to capture information on how much electricity its customers use each year, what types of buildings are being powered, and what types of devices are being powered inside of them. The electricity company would also decide which team members will be responsible for collecting, storing, and sharing that data. All of this happens during planning, and it helps set up the rest of the project._
 
 - **Capture**: data is collected from variety of different sources. Public vs private databases.
 
-- **Manage**: how we care for our data. Where is it stored? Tools used to keep it secured. Actions taken to ensure it's maintained properly. Important for cleansing phase...
+- **Manage**: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so. Important for cleansing phase...
 
 - **Analyze**: data is used to solve problems, make decisions, and support business goals. For example, _one of our electricity company goals might be to find ways to help customers save energy._
 
 - **Archive**: storing data in a place where it's still available, but may not be used again. It makes sense to archive vs keeping data around...
 
-- **Destroy**: Electricity company example. _They would have data on multiple hard drives. To destroy it, the company would use a secure data erasure software. Any paper files would be shredded._
+- **Destroy**: Remove data from storage and delete any shared copies of the data. Electricity company example. _They would have data on multiple hard drives. To destroy it, the company would use a secure data erasure software. Any paper files would be shredded._
 ---
 
 ## Google bigquery example
