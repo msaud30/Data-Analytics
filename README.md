@@ -28,7 +28,7 @@ Plan, capture, manage, analyze, archive and destroy.
 ---
 
 ## Data Lifecycle examples:
-**U.S. Fish and Wildlife Service**
+**U.S. Fish and Wildlife Service:**
 A glimpse of how government, finance, and education institutions can view data life cycles a little differently.
 https://www.fws.gov/data/life-cycle
 
