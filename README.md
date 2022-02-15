@@ -11,6 +11,7 @@ The collection, transformation, and organization of data in order to draw conclu
 - **Act**: put your insights to work in order to solve the original problem
 ---
 
+
 ## Life cycle of data:
 - Plan, capture, manage, analyze, archive and destroy. 
 
