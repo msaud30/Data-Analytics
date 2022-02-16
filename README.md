@@ -14,9 +14,11 @@ The collection, transformation, and organization of data in order to draw conclu
 ## Life cycle of data:
 Plan, capture, manage, analyze, archive and destroy. 
 
-- **Planning**: Decide what kind of data is needed, how it will be managed, and who will be responsible for it. Happens way before analysis of project. _For example, a company might decide to capture information on how much electricity its customers use each year, what types of buildings are being powered, and what types of devices are being powered inside of them. The electricity company would also decide which team members will be responsible for collecting, storing, and sharing that data. All of this happens during planning, and it helps set up the rest of the project._
+- **Planning**: Decide what kind of data is needed, how it will be managed, and who will be responsible for it. 
+    - _What plans and decisions do you need to make? What data do you need to answer your question?_
 
-- **Capture**: data is collected from variety of different sources. Public vs private databases.
+- **Capture**: data is collected from variety of different sources. 
+    - _Where does your data come from? How will you get it?_
 
 - **Manage**: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so. Important for cleansing phase...
 
