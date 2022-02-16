@@ -20,13 +20,17 @@ Plan, capture, manage, analyze, archive and destroy.
 - **Capture**: data is collected from variety of different sources. 
     - _Where does your data come from? How will you get it?_
 
-- **Manage**: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so. Important for cleansing phase...
+- **Manage**: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+    - _How will you store your data? What should it be used for? How do you keep this data secure and protected?_
 
-- **Analyze**: data is used to solve problems, make decisions, and support business goals. For example, _one of our electricity company goals might be to find ways to help customers save energy._
+- **Analyze**: data is used to solve problems, make decisions, and support business goals.
+    - _How will the company analyze the data? What tools should they use? _
 
-- **Archive**: storing data in a place where it's still available, but may not be used again. It makes sense to archive vs keeping data around...
+- **Archive**: storing data in a place where it's still available, but may not be used again.
+    - _What should they do with their data when it gets old? How do they know when it's time?_
 
-- **Destroy**: Remove data from storage and delete any shared copies of the data. Electricity company example. _They would have data on multiple hard drives. To destroy it, the company would use a secure data erasure software. Any paper files would be shredded._
+- **Destroy**: Remove data from storage and delete any shared copies of the data.
+    - _Should they ever dispose of any data? If so, when and how?_ 
 ---
 
 ## Data Lifecycle examples:
