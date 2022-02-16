@@ -24,7 +24,7 @@ Plan, capture, manage, analyze, archive and destroy.
     - _How will you store your data? What should it be used for? How do you keep this data secure and protected?_
 
 - **Analyze**: data is used to solve problems, make decisions, and support business goals.
-    - _How will the company analyze the data? What tools should they use? _
+    - _How will the company analyze the data? What tools should they use?_
 
 - **Archive**: storing data in a place where it's still available, but may not be used again.
     - _What should they do with their data when it gets old? How do they know when it's time?_
