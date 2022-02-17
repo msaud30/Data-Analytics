@@ -11,7 +11,7 @@ The collection, transformation, and organization of data in order to draw conclu
 - **Act**: put your insights to work in order to solve the original problem
 ---
 
-## Life cycle of data:
+## Data Lifecycle:
 Plan, capture, manage, analyze, archive and destroy. 
 
 - **Planning**: Decide what kind of data is needed, how it will be managed, and who will be responsible for it. 
@@ -32,6 +32,9 @@ Plan, capture, manage, analyze, archive and destroy.
 - **Destroy**: Remove data from storage and delete any shared copies of the data.
     - _Should they ever dispose of any data? If so, when and how?_ 
 ---
+
+## Data Analysis Phase vs Data Lifecycle 
+- The **data analysis** involves following a process to analyze data; **data life cycle** deals with the stages that data goes through during its useful life.
 
 ## Data Lifecycle examples:
 **U.S. Fish and Wildlife Service:**
