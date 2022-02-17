@@ -33,8 +33,10 @@ Plan, capture, manage, analyze, archive and destroy.
     - _Should they ever dispose of any data? If so, when and how?_ 
 ---
 
-## Data Analysis Phase vs Data Lifecycle 
-- The **data analysis** involves following a process to analyze data; **data life cycle** deals with the stages that data goes through during its useful life.
+## Data Analysis Process vs Data Lifecycle
+- Both have 6 important phases.
+- **Data analysis** involves following a process to analyze data.
+- **Data life cycle** deals with the stages that data goes through during its useful life.
 
 ## Data Lifecycle examples:
 **U.S. Fish and Wildlife Service:**
