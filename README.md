@@ -51,6 +51,12 @@ Financial institutions may take a slightly different approach to the data life c
 ## SQL
 ![image](https://user-images.githubusercontent.com/63278449/155258123-2a839238-a717-411e-b951-abdf6b66d01c.png)
 
+The syntax of every SQL query is the same: 
+
+- Use SELECT to choose the columns you want to return.
+- Use FROM to choose the tables where the columns you want are located.
+- Use WHERE to filter for certain information.
+
 ## Google bigquery example
 
 ```SQL
