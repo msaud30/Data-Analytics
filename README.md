@@ -48,6 +48,9 @@ Financial institutions may take a slightly different approach to the data life c
 
 ***Data life cycle will vary from company to company or by industry or sector.***
 
+## SQL
+![image](https://user-images.githubusercontent.com/63278449/155258123-2a839238-a717-411e-b951-abdf6b66d01c.png)
+
 ## Google bigquery example
 
 ```SQL
