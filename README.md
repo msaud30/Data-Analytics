@@ -61,7 +61,13 @@ The syntax of every SQL query is the same:
 
 ```SQL
 SELECT 
-customer_id,
-first_name,
-last_name
+    customer_id,
+    first_name,
+    last_name
+FROM
+    customer_data.customer_name
+WHERE
+    customer_id > 0
+    AND first_name = 'Tony'
+    AND last_name = 'Magnolia'
 ```
