@@ -71,3 +71,14 @@ WHERE
     AND first_name = 'Tony'
     AND last_name = 'Magnolia'
 ```
+
+The above query uses three commands to locate customers with a valid (greater than 0) customer ID whose first name is Tony and last name is Magnolia.
+
+1. SELECT the columns named customer_id, first_name, and last_name
+
+2. FROM a table named customer_name (in a dataset named customer_data)
+(The dataset name is always followed by a dot, and then the table name.)
+
+3. But only return the data WHERE customer_id is greater than 0, first_name is Tony, and last_name is Magnolia.
+
+Note that one of the conditions is a logical condition that checks to see if customer_id is greater than zero.
