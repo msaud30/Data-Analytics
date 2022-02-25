@@ -57,7 +57,7 @@ The syntax of every SQL query is the same:
 - Use FROM to choose the tables where the columns you want are located.
 - Use WHERE to filter for certain information.
 
-## Google bigquery example
+## BigQuery example with multiple fields used in a WHERE clause:
 
 ```SQL
 SELECT 
