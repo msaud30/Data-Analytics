@@ -60,6 +60,8 @@ The syntax of every SQL query is the same:
 ## Google bigquery example
 
 ```SQL
-SELECT SUM(totals.pageviews) AS TotalPageviews
-FROM 'bigquery-public-data.google_analytics_sample.ga_sessions_20170101'
+SELECT 
+customer_id,
+first_name,
+last_name
 ```
