@@ -82,3 +82,6 @@ The above query uses three commands to locate customers with a valid (greater th
 3. But only return the data WHERE customer_id is greater than 0, first_name is Tony, and last_name is Magnolia.
 
 Note that one of the conditions is a logical condition that checks to see if customer_id is greater than zero.
+
+## Basics of R
+(https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.2.Programming-using-RStudio)
