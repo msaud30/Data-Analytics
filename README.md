@@ -84,4 +84,4 @@ The above query uses three commands to locate customers with a valid (greater th
 Note that one of the conditions is a logical condition that checks to see if customer_id is greater than zero.
 
 ## Basics of R
-(https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.2.Programming-using-RStudio)
+$ git clone https://github.com/sj50179/Google-Data-Analytics-Professional-Certificate.wiki.git
